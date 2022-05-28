@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dazzling-sector-331417",
+  "private_key_id": "c5155290de2a998e7c332b82324e5caf7485ff92",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDaVJDW4Q7qNpNI\ngJVvbKmG13bbhVqzIn6jOMvvOvA2yYHlmIozFQEBDXWKoem42ZPWE+0E5GXGWg/h\n3f5Jxmt3B0kuDo4ZXR0KoY3qniufWQkICJsFaiQJ+Gt5cmtYGI42v5dmw3bG4My/\nWqNhqV/0hb5nU+iFU/YwgRCfOJiigKCX4Hw3n0Zpr4T3FBwPhUXxdRoU65XwS7ks\navoIlqEVj9W6fTg/35whlMviFchJSzdFYSEX8UWUweDLfAm1q819Kw4qP49Bh8iI\nbDM7hjJtmxm/gB3t5MCEdvnCc5Ga8nrDMj9TFxFv+4MD3QABe609y1ptwGUFLOqu\nOWwo3JLXAgMBAAECggEAMQerrS3GeS9/XNlPdcHbwkXR0dN9PlxBPytqlNNSDaOs\nEaDzbCxL2O4qVtMslw/5hKpd4GrgNi6UgX8mc2/lQ0o2E2s+WxDPjEsigS07E6Jd\nhlnUYl9nL3wDurbIx3RgP4hAGlpL6raiFFjo9u4f99wvGao8vfBQiaz6TB9cG6XH\n+4e8okG6hT1VZSS7kkVc4VmLHBwPnMGCNqtHXk9elN7W9grpT9gYmSkRBhY9eREw\nkq2jaRg8t8sFzZI9C09TGNtSgn6UHQ7rkILJQAH4DfJAVPh6P1x7fjy2b8AcDJDx\n3+BniTm9RJ+4Bz71n2Ts5PudIoZ4i+xJeNe0cwUlhQKBgQDsed7IOXv1LKlb9+RT\n90OwqQSI5a9LGn6ewPhWef+PhAddgrnToF/3HhJnSe2c5nll0LohNnqAARcW84fm\nSj+CuOgnnoUYoXgg0FIV9a/CrBfAOjR+c47pbrSQLlNDgikl8ZogVPG5mxQh9TlI\nB8I8W4PwtXajHW4VJj4ANutO0wKBgQDsWyt0hWyYMuT6bstwaQTUwDw8uVoGIYrZ\nWD6jWvxkXqOL9CL35VIdubPgXEx2KJki9XHHvtIahWrEZ/6rJ6YIrsWqCwbW9gFu\n5umdV3RHmBMbv/PAh57a6G0o/o+UYktxACLricyxgF4yWHPISP903miZYuyIGyGH\n7KgxmdARbQKBgBOMt7hB2Feai53Izp2KcZQnRPK0WluRIyqotV8g0tnghmNarVYr\nigN5/vd/Cx/PhfW+3cRlJpdyf6AsHe4R8VIzSy4LUuGIZ8/+qOqb1x328De6GCDk\nGMp/lnnc+pE4L4KtiJpnq1w2z+FGzqd/zLUEs9GwjtBJXJJvCO0nnSh1AoGBAM8u\n++CgNJkVw/JivKJE7J8yA5uXPnqxXG05FW9MioHRE7vSvfRfaKP17N93CO9qlxI1\n5Q8bDkGBQh34qxyNHNXvngV4tP4plwgIEjCCQMOhYt6oXJsgRvfNViLhQiroHwlm\n/TVLDctqoyeusY+XrZZcf4Q1WvHUFoh3wtf35JPhAoGBAI4M7W3JaHB7gcsFesK8\ngR8WrKjh+e8lEga00/2hOSwlzdQS7mu1sjzK8DjHxzKMomS03WVEVvFHHqJoZmpH\nQuBfDQap+aEt9LJDAKHAT013v8M/h5LH9gOOfZ9o5gIvu/ZOs364CKpIEkGs5y4y\nqAFTFIAGDfeCrhAy6g0di9x/\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-7qnb4hn11ma9kc9n21-1yjw8f5@dazzling-sector-331417.iam.gserviceaccount.com",
+  "client_id": "101865571126613980976",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-7qnb4hn11ma9kc9n21-1yjw8f5%40dazzling-sector-331417.iam.gserviceaccount.com"
+}
